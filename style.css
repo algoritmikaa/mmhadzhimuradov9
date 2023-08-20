@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(54, 132, 196);
+    padding: 10px;
+}
+
+header a {
+    background-color: rgb(192, 133, 5);
+    text-decoration: none;
+    padding: 4px;
+    border-radius: 8px;
+    color: black ;
+}
+
+main h1 {
+    text-align: center;
+}
+
+h2 {
+    color: red;
+}
+
+.deni {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    padding: 15px;
+}
+
+footer {
+    background-color: rgb(4, 104, 170);
+    padding: 8px;
+    color: white;
+}
